@@ -1,7 +1,7 @@
-.bandera, .bandera p{
-  display: inline;
-  margin: 0px 10px;
-  padding: 10px 10px
+.bandera{
+  display: inline-block;
+  height: 20vh;
+  width: 20%;
 }
 .amarillo{
   background-color: yellow;
@@ -11,6 +11,7 @@
   background-color: gray;
   color: white;
 }
+
 #texto-mayusculas{
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
